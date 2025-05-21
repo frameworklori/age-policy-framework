@@ -1,9 +1,23 @@
-# Age-Based AI Risk Management Policy Framework
+# Age-Based AI Risk Policy Framework
 
-This repository provides a risk-aware, age-sensitive AI usage framework proposed by the Lori Framework.  
-It outlines emotional and developmental risk profiles for different age groups (from early childhood to older adults) in relation to Humanize-capable AI systems.
+This repository presents a policy framework to guide the ethical design and deployment of AI systems based on user age.
 
-The framework includes structured policy recommendations for schools, families, platform developers, and governments.  
-It is intended to guide ethical AI design, usage restrictions, and safeguard mechanisms against overdependence and emotional substitution.
+## Purpose
 
-All contents are open-sourced under the MIT License to encourage responsible adoption, review, and collaborative refinement.
+- Prevent cognitive dependency in minors
+- Adjust AI interaction depth by developmental stage
+- Support reflective and exploratory learning over automation
+
+## Core Principles
+
+- Age-stratified risk governance
+- Ethical AI interaction boundaries
+- Education-centric design over engagement maximization
+
+## Status
+
+Version 1.0 published. Feedback and international policy alignment welcome.
+
+## License
+
+MIT License. Created as part of the Lori Framework.
